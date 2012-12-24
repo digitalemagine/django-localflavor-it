@@ -1,0 +1,30 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Marian Andre <marian@andre.sk>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-it\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:39-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Marian Andre <marian@andre.sk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+#: forms.py:21
+msgid "Enter a valid zip code."
+msgstr "Zadajte platné poštové smerovacie číslo."
+
+#: forms.py:48
+msgid "Enter a valid Social Security number."
+msgstr "Vložte platné číslo sociálneho poistenia."
+
+#: forms.py:73
+msgid "Enter a valid VAT number."
+msgstr "Zadajte platné VAT číslo."
