@@ -20,6 +20,6 @@ REGION_CHOICES = (
     ('TOS', 'Toscana'),
     ('TAA', 'Trentino-Alto Adige'),
     ('UMB', 'Umbria'),
-    ('VAO', 'Valle d’Aosta'),
+    ('VAO', 'Valle d\'Aosta'),
     ('VEN', 'Veneto'),
 )
