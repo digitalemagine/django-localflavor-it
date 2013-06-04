@@ -84,5 +84,6 @@ class ITVatNumberField(Field):
         vat_number = str(vat_number).zfill(11)
         check_digit = vat_number_check_digit(vat_number[0:10])
         if not vat_number[10] == check_digit:
+            print "check", vat_number[10], check_digit
             raise ValidationError(self.error_messages['invalid'])
         return smart_text(vat_number)
